@@ -1,0 +1,18 @@
+# Environment variables and local secrets
+.env
+.env.*
+!.env.example
+
+# Dependencies and generated files
+node_modules/
+dist/
+dist-ssr/
+build/
+coverage/
+
+# Logs and local tooling
+*.log
+npm-debug.log*
+.DS_Store
+.vscode/
+.idea/
